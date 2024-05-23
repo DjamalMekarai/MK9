@@ -4,7 +4,7 @@ Hello world , This is my profile
 
 ###
 
-<p align="left">Djamal Mekarai is a Scrum Master and front-end developer passionate about task management and productivity. With a solid background in JavaScript front-end design, Djamal has helped many teams organize their work efficiently and optimize their processes through agile methodologies. Based in [your city or country], it specializes in creating intuitive and powerful tools to improve the daily lives of users.</p>
+<p align="left">Djamal Mekarai is a Scrum Master and front-end developer passionate about task management and productivity. With a solid background in JavaScript front-end design, Djamal has helped many teams organize their work efficiently and optimize their processes through agile methodologies. Algeria chlef, it specializes in creating intuitive and powerful tools to improve the daily lives of users.</p>
 
 ###
 
